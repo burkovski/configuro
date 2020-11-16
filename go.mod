@@ -1,4 +1,4 @@
-module github.com/sherifabdlnaby/configuro
+module github.com/freemen-app/configuro
 
 require (
 	github.com/go-playground/locales v0.13.0
