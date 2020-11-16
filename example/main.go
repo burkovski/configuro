@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sherifabdlnaby/configuro"
+	"github.com/freemen-app/configuro"
 )
 
 //Config Is our main Application Config Struct.

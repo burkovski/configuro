@@ -1,4 +1,4 @@
-//nolint
+// nolint
 package configuro_test
 
 import (
@@ -9,8 +9,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/sherifabdlnaby/configuro"
 	"go.uber.org/multierr"
+
+	"github.com/freemen-app/configuro"
 )
 
 type Example struct {
@@ -351,7 +352,7 @@ nested:
 	}
 }
 
-//TODO Too long, try make it better.
+// TODO Too long, try make it better.
 func TestOverloadConfigDirWithEnv(t *testing.T) {
 
 	os.Clearenv()
