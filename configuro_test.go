@@ -11,7 +11,7 @@ import (
 
 	"go.uber.org/multierr"
 
-	"github.com/freemen-app/configuro"
+	"github.com/o4eredko/configuro"
 )
 
 type Example struct {

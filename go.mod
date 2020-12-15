@@ -1,4 +1,4 @@
-module github.com/freemen-app/configuro
+module github.com/o4eredko/configuro
 
 go 1.14
 

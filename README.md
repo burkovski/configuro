@@ -76,7 +76,7 @@ The method defined by Configuro allow you to implement [12-Factor's Config](http
 go get github.com/sherifabdlnaby/configuro
 ```
 ``` go
-import "github.com/freemen-app/configuro"
+import "github.com/o4eredko/configuro"
 ```
 
 # Usage
